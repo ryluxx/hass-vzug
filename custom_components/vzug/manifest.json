@@ -6,7 +6,8 @@
   ],
   "bluetooth": [],
   "codeowners": [
-    "@siku2"
+    "@siku2",
+    "@ryluxx"
   ],
   "config_flow": true,
   "dependencies": [],
